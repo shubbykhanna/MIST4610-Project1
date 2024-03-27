@@ -58,5 +58,7 @@ The last entity is MaintenanceCrew which describes the specific employee maintai
 ![Query Table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/c9938534-5ad8-4735-abf8-77d722572c53)
 
 ## Queries:
+![Query 1](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/37c2e754-0894-424b-951f-c85a1a2c0628)
+The query listing all members with silver memberships provides a clear understanding of the size and composition of our silver membership base. This data allows the clu to tailor specific promotions, events, or services to cater to this segment, ensuring their satisfaction and loyalty. Additionally, tracking silver membership uptake over time can provide valuable insights into the effectiveness of the membership offerings and assist in making informed decisions about future membership tiers and benefits.
 
 
