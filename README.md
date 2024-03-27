@@ -66,3 +66,22 @@ The query listing all members with silver memberships provides a clear understan
 
 This query provides valuable insight into the inventory status of the pro shop, indicating items with low stock levels. By identifying products with 10 or fewer items remaining, the club can efficiently manage inventory replenishment, ensuring popular items are always available to the customers. This allows the club to maintain satisfied customers.
 
+![Query 3](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/77b469f9-63c0-4e6e-8ba7-d002e180f82e)
+
+This query provides valuable insight into the specific courts that are located outside and are on clay. This information is valuable as it allows the owner to identify which courts are suitable for outdoor play or matches, which helps the owner organize scheduling and allocate resources effectively. Additionally, understanding the distribution of court surfaces can inform decisions about maintenance schedules and investments in amenities tailored to outdoor play, enhancing the overall experiences for members. 
+
+![Query 4](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/61db5fe1-d88e-4e6a-9cbc-af3c45c92831)
+
+This query provides insights into the specific clientele Lotti is catering to, allowing the club to understand her coaching workload and effectiveness. By knowing which members she is coaching, we can tailor marketing efforts, allocate resources, and make strategic decisions to enhance the coaching experience for both Lotti and her students, ultimately driving business growth and satisfaction.
+
+![Query 5](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/e5b54643-c028-4fc4-95e6-64fcf8c32e6c)
+
+Providing the average age of members in each membership level can help tailor the club's offerings and amenities to better suit the demographics of each group. Understanding the age distribution within membership levels enables the ability to create targeted marketing campaigns and develop programs and events that cater to the specific interests and needs of different age groups. Additionally, it aids in forecasting membership trends and making informed decisions regarding membership pricing and retention strategies.
+
+![Query 6](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/8ec97203-df2c-4f56-a82f-a9ef8675acf9)
+
+This query helps the club to identify members who haven't utilized the court reservation system, allowing management to reach out to them and encourage more frequent use of the facilities. By understanding which members are not engaging in court reservations, they can tailor promotional efforts or incentives to increase their participation, thus maximizing court usage and potentially boosting revenue. Additionally, it provides insights into areas where improvement in communication of the reservation system among members may be necessary.
+
+![Query 7](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/1b865d28-d784-4c8d-ae94-c656a3257f51)
+
+By identifying these members that are Silver Members and have booked an event in the Courtyard, we can tailor special promotions or offers specifically for them, enhancing their experience and encouraging loyalty. Additionally, understanding the preferences and behaviors of the Silver level members allows optimization in marketing strategies and allocating resources effectively, ultimately driving revenue and fostering a stronger sense of community within the tennis club.
