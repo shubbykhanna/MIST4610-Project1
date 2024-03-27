@@ -16,7 +16,7 @@
 We are the owner/operator of a tennis club needing to build a relational database. The central entity is the Members entity - Members being each person who has a membership at the tennis club. Members have the ability to reserve facility spaces (courts and club rooms), purchase tennis necessities (attire, racket, shoes,etc.), and develop their tennis skillset through lessons with tennis coaches or playing matches in a league. Through modeling these relationships in depth, we aim to precisely model these relationships, create sample data, add attributes to our entities, and perform valuable queries to effectively model our tennis club's operations.
 
 ## Data model:
-![data model](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/3a32a2ff-afa0-4652-a9e1-aa2bf27ff2fe)
+
 
 
 Explanation of data model:
@@ -40,6 +40,7 @@ The next entity is CourtMaintenance which includes maintenanceID, the date and t
 The last entity is MaintenanceCrew which describes the specific employee maintaining the court. This includes employeeID, the employee's first and last name, and contact information. There is a One-To-Many Relationship between MaintenanceCrew and CourtMaintenance because one crew member can have multiple maintenance jobs.
 
 ## Data Dictionary:
+![Members table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/06a7d2f8-411b-47b5-aafa-da1465008b7f)
 
 
 
