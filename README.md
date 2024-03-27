@@ -6,7 +6,7 @@
 
 
 ## Team Members:
-    1. Nicolle Serafin [@nikkiserafin]
+    1. Nicolle Serafin [@nikkiserafin](https://github.com/nikkiserafin)
     2. Shubhangi Khanna [@shubbykhanna]
     3. Jay Dumon [@JayDumon]
     4. Ryan Cullen [@javaprogrammer2023]
