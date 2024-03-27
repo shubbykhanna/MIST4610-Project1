@@ -85,3 +85,16 @@ This query helps the club to identify members who haven't utilized the court res
 ![Query 7](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/1b865d28-d784-4c8d-ae94-c656a3257f51)
 
 By identifying these members that are Silver Members and have booked an event in the Courtyard, we can tailor special promotions or offers specifically for them, enhancing their experience and encouraging loyalty. Additionally, understanding the preferences and behaviors of the Silver level members allows optimization in marketing strategies and allocating resources effectively, ultimately driving revenue and fostering a stronger sense of community within the tennis club.
+
+![Query 8 pt 1](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/a77e9f67-c24c-488e-a2de-ba7764567ba7)
+![Query 8 pt 2](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/33d43007-6a57-4149-9e24-cf808f0e9d7b)
+
+This query will provide the tennis club owner with a list of member IDs, names, and the number of times each member has made a reservation. This information is valuable as it helps identify the club’s most active members, understand usage patterns, and tailor marketing or loyalty programs to reward frequent users. Additionally, it enables the club to optimize court availability to meet demand.
+
+![Query 9](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/9ab9d211-630c-426c-8146-7d13466564a4)
+
+Knowing which courts Ches Belliveau serviced with a hard surface can help the club to optimize your court maintenance schedule and resources. By understanding which courts are likely to endure more wear and tear, management can prioritize their upkeep to ensure they remain in top condition, thereby enhancing the overall playing experience for the customers. Marketing can use this data to allocate efforts to attract players who prefer hard surface courts.
+
+![Query 10](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/ee0a5828-6b13-4689-8c56-cd1615660fc0)
+
+By identifying members with at least 5 reservations, we can pinpoint the most loyal and active customers. This insight allows the tennis club to tailor special offers or rewards programs to incentivize continued patronage, fostering customer loyalty. Additionally, understanding reservation patterns among these members can help optimize court scheduling and resource allocation, ultimately enhancing operational efficiency and customer satisfaction.
