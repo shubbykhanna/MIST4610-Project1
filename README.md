@@ -54,4 +54,9 @@ The last entity is MaintenanceCrew which describes the specific employee maintai
 ![HomeTeams table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/8e2d8803-2426-4edb-8c13-862b0f605d44)
 ![MaintenanceCrew Table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/8c944b87-02c4-42f4-971e-4be65e781230)
 
+## Query Table:
+![Query Table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/c9938534-5ad8-4735-abf8-77d722572c53)
+
 ## Queries:
+
+
