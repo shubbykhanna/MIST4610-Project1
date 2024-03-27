@@ -7,7 +7,7 @@
 
 ## Team Members:
 1. Nicolle Serafin @nikkiserafin https://github.com/shubbykhanna/MIST-4610-Project1
-2. Shubhangi Khanna [@shubbykhanna](url)
+2. Shubhangi Khanna [@shubbykhanna] (https://github.com/shubbykhanna/MIST-4610-Project1)
 3. Jay Dumon [@JayDumon]
 4. Ryan Cullen [@javaprogrammer2023]
 5. Elyssa Abbott [@elyssaabbott]
