@@ -7,7 +7,7 @@
 
 ## Team Members:
 1. Nicolle Serafin @nikkiserafin
-2. Shubhangi Khanna [@shubbykhanna]
+2. Shubhangi Khanna [@shubbykhanna](url)
 3. Jay Dumon [@JayDumon]
 4. Ryan Cullen [@javaprogrammer2023]
 5. Elyssa Abbott [@elyssaabbott]
