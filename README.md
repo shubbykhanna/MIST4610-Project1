@@ -16,6 +16,8 @@
 We are the owner/operator of a tennis club needing to build a relational database. The central entity is the Members entity - Members being each person who has a membership at the tennis club. Members have the ability to reserve facility spaces (courts and club rooms), purchase tennis necessities (attire, racket, shoes,etc.), and develop their tennis skillset through lessons with tennis coaches or playing matches in a league. Through modeling these relationships in depth, we aim to precisely model these relationships, create sample data, add attributes to our entities, and perform valuable queries to effectively model our tennis club's operations.
 
 ## Data model:
+![Members table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/13118873-9d00-42e2-865e-4188edd9c7c6)
+
 Explanation of data model:
 
 Our model is based on a hypothetical tennis club. Members is the central entity including a member identification number, their first and last name, contact information, other personal information (age and gender), membership level, their team, and their coach if they have one.
