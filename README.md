@@ -41,6 +41,8 @@ The last entity is MaintenanceCrew which describes the specific employee maintai
 
 ## Data Dictionary:
 ![Members table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/06a7d2f8-411b-47b5-aafa-da1465008b7f)
+![Leagues table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/b46e97e5-62d2-4c15-8e73-13315c3ecb5e)
+![Courts table](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/57699473-73ff-4e55-b76e-887c0aa5e0fc)
 
 
 
