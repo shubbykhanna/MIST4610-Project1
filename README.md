@@ -59,8 +59,10 @@ The last entity is MaintenanceCrew which describes the specific employee maintai
 
 ## Queries:
 ![Query 1](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/37c2e754-0894-424b-951f-c85a1a2c0628)
+
 The query listing all members with silver memberships provides a clear understanding of the size and composition of our silver membership base. This data allows the clu to tailor specific promotions, events, or services to cater to this segment, ensuring their satisfaction and loyalty. Additionally, tracking silver membership uptake over time can provide valuable insights into the effectiveness of the membership offerings and assist in making informed decisions about future membership tiers and benefits.
 
 ![Query 2](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/2ab5fd09-3920-405e-b0c9-6817febe1ee0)
+
 This query provides valuable insight into the inventory status of the pro shop, indicating items with low stock levels. By identifying products with 10 or fewer items remaining, the club can efficiently manage inventory replenishment, ensuring popular items are always available to the customers. This allows the club to maintain satisfied customers.
 
