@@ -18,7 +18,7 @@ We are the owner/operator of a tennis club needing to build a relational databas
 ## Data model:
 ![Group Project Model Image](https://github.com/nikkiserafin/MIST4610-Project1/assets/163012574/1ea26718-c30b-4d62-b94c-475faada199f)
 
-Explanation of data model:
+**Explanation of data model:**
 
 Our model is based on a hypothetical tennis club. Members is the central entity including a member identification number, their first and last name, contact information, other personal information (age and gender), membership level, their team, and their coach if they have one.
 
